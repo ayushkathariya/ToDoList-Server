@@ -25,7 +25,7 @@ app.use(express.json({ limit: "10mb" }));
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://to-do-list-client-omega.vercel.app/",
+    origin: "https://to-do-list-client-g2zb.vercel.app/",
     credentials: true,
   })
 );
