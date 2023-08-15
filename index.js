@@ -26,7 +26,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin:
-      "https://64dacb67a8ba1500087d5979--astounding-selkie-93801e.netlify.app/",
+      "https://64dacb67a8ba1500087d5979--astounding-selkie-93801e.netlify.app",
     credentials: true,
   })
 );
